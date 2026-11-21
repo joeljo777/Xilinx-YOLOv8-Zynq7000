@@ -289,11 +289,7 @@ The `yolo_webcam_inference.py` script is designed with **Vitis-AI compatibility*
 
 ---
 
-## 🤝 Support
 
-**Role Distribution:**
-- **You (ML Lead)**: Model validation, accuracy benchmarking
-- **Embedded AI Engineer**: Vitis-AI quantization, FPGA deployment
 
 **Next Steps:**
 1. Run the webcam script to verify it works
