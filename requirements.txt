@@ -1,0 +1,22 @@
+# Real-Time Object Detection - Requirements
+# Compatible with Vitis-AI PyTorch flow
+
+# Core Dependencies
+torch>=1.13.0
+torchvision>=0.14.0
+opencv-python>=4.8.0
+numpy>=1.23.0
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# YOLO Models
+ultralytics>=8.0.0  # For YOLOv8 (fallback option)
+
+# Utilities
+Pillow>=9.5.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: For better performance
+# onnx>=1.14.0  # For ONNX export (Vitis-AI quantization path)
+# onnxruntime>=1.15.0

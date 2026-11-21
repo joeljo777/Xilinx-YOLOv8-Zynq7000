@@ -1,0 +1,9 @@
+BASELINE ACCURACY - YOLOv8n (FP32)
+==================================================
+Date: 2026-02-17 20:43:22
+Model: YOLOv8n
+Images: 1000
+mAP50: 0.5212
+mAP50-95: 0.3714
+Precision (mean): 0.6347
+Recall (mean): 0.4739

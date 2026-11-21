@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Large Datasets (COCO 2017 validation ~1GB)
+datasets/
+*.zip
+*.tar
+*.tar.gz
+
+# Ultralytics runs & cache
+runs/
+*.log
+
+# Temporary test frame captures
+detection_frame_*.jpg
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
