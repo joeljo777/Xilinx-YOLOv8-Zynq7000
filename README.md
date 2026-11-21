@@ -303,6 +303,3 @@ The `yolo_webcam_inference.py` script is designed with **Vitis-AI compatibility*
 
 ---
 
-**Status**: ✅ Ready for laptop validation  
-**Last Updated**: February 17, 2026  
-**Contact**: Embedded AI Engineer
